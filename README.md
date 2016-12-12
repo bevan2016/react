@@ -1,5 +1,4 @@
-# react
-## How to create this project on Windows:
+# How to create this project on Windows:
  * install node.js
  * mkdir blueprints
  * npm init
